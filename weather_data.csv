@@ -1,0 +1,10 @@
+,period,short_desc,temp,desc,temp_num,is_night
+0,Today,Mostly Sunny,High: 60 °F,"Today: Mostly sunny, with a high near 60. Light and variable wind becoming west 8 to 13 mph in the afternoon. ",60,False
+1,Tonight,Partly Cloudy,Low: 49 °F,"Tonight: Partly cloudy, with a low around 49. West wind 9 to 14 mph. ",49,True
+2,Wednesday,DecreasingClouds,High: 63 °F,"Wednesday: Mostly cloudy, then gradually becoming sunny, with a high near 63. Southwest wind around 8 mph. ",63,False
+3,WednesdayNight,IncreasingClouds,Low: 52 °F,"Wednesday Night: Increasing clouds, with a low around 52. West southwest wind 7 to 11 mph. ",52,True
+4,Thursday,Partly Sunny,High: 63 °F,"Thursday: Partly sunny, with a high near 63. West southwest wind 3 to 8 mph. ",63,False
+5,ThursdayNight,Partly Cloudy,Low: 53 °F,"Thursday Night: Partly cloudy, with a low around 53.",53,True
+6,Friday,Mostly Sunny,High: 65 °F,"Friday: Mostly sunny, with a high near 65.",65,False
+7,FridayNight,Partly Cloudy,Low: 52 °F,"Friday Night: Partly cloudy, with a low around 52.",52,True
+8,Saturday,Mostly Sunny,High: 65 °F,"Saturday: Mostly sunny, with a high near 65.",65,False
